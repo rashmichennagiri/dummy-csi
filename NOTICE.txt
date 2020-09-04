@@ -1,5 +1,8 @@
 THIRD-PARTY NOTICES
 
+
+
+
 This document contains licensing information relating to the use of free and
 open-source software with or within the product (collectively, "FOSS").  Any
 terms, conditions, and restrictions governing the use or distribution of FOSS
@@ -8,6 +11,9 @@ the FOSS (the "FOSS Licenses") are offered and imposed by HPE Nimble Storage alo
 The authors, licensors, and distributors of the FOSS have disclaimed all
 warranties relating to any liability arising from the use and distribution of
 the FOSS.
+
+
+
 
 This document identifies the FOSS packages used, the FOSS Licenses that HPE Nimble
 Storage believes govern those FOSS packages, and copyright and license notices
@@ -20,6 +26,9 @@ of the licensing information provided herein.  Recipients are also encouraged
 to notify HPE Nimble Storage of any inaccurate information or errors found in this
 document.
 
+
+
+
 Certain FOSS Licenses, such as the GNU General Public License, GNU Lesser (or
 Library) General Public License, and Mozilla Public License, require HPE Nimble
 Storage to make available to recipients the source code corresponding to FOSS
@@ -27,17 +36,25 @@ binaries distributed under those licenses.  Recipients who would like to
 receive a copy of such source code should submit a request to HPE Nimble Storage by
 mail to:
 
+
+
+
 Hewlett Packard Enterprise Company
 Attn: General Counsel, Open Source Program Office
 6280 America Center Drive
 San Jose, CA 95002
 U.S.A.
 
+
+
+
 Please identify in submitted requests: the FOSS packages for which you are
 requesting source code; the HPE Nimble Storage product and version number with
 which the requested FOSS package was distributed; an email address at which
 HPE Nimble Storage may contact you regarding the request (if available); and the
 postal address for delivery of the requested source code.
+
+
 
 The FOSS packages identified below are arranged by the applicable license(s).
 
